@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Yolo weights (too big)
+./yolov3/yolov3.weights
