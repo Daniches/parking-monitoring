@@ -1,0 +1,1 @@
+C:\Users\Daniches\Anaconda3\Scripts\activate.bat & H: & cd H:\Programs\Parking_tracking\dataset & python download_image.py
